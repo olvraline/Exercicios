@@ -3,5 +3,17 @@
 ################################################################################
 
 /.vs
-/ExercicioCondicoes5/obj
+/acessorestrito/bin/Debug/net6.0
+/acessorestrito/obj
+/areadotriangulo/bin/Debug/net6.0
+/areadotriangulo/obj
+/calcularpesoealtura/bin/Debug/net6.0
+/calcularpesoealtura/obj
 /ExercicioCondicoes5/bin/Debug/net6.0
+/ExercicioCondicoes5/obj/Debug/net6.0
+/ExercicioCondicoes5/obj/Release/net6.0
+/ExercicioCondicoes5/obj
+/numeroimpar/obj
+/numeroimpar/bin/Debug/net6.0
+/sistemasdenotas/bin/Debug/net6.0
+/sistemasdenotas/obj
