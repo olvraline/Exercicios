@@ -1,0 +1,14 @@
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\bin\Debug\net6.0\listaDeExercicios.exe
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\bin\Debug\net6.0\listaDeExercicios.deps.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\bin\Debug\net6.0\listaDeExercicios.runtimeconfig.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\bin\Debug\net6.0\listaDeExercicios.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\bin\Debug\net6.0\listaDeExercicios.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.AssemblyInfo.cs
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\refint\listaDeExercicios.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\listaDeExercicios.genruntimeconfig.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\listaDeExercicios\obj\Debug\net6.0\ref\listaDeExercicios.dll

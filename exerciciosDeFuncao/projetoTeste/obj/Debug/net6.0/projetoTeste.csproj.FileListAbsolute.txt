@@ -1,0 +1,14 @@
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\bin\Debug\net6.0\projetoTeste.exe
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\bin\Debug\net6.0\projetoTeste.deps.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\bin\Debug\net6.0\projetoTeste.runtimeconfig.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\bin\Debug\net6.0\projetoTeste.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\bin\Debug\net6.0\projetoTeste.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.AssemblyInfo.cs
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\refint\projetoTeste.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\projetoTeste.genruntimeconfig.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\projetoTeste\obj\Debug\net6.0\ref\projetoTeste.dll

@@ -1,0 +1,14 @@
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\bin\Debug\net6.0\questao7.exe
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\bin\Debug\net6.0\questao7.deps.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\bin\Debug\net6.0\questao7.runtimeconfig.json
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\bin\Debug\net6.0\questao7.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\bin\Debug\net6.0\questao7.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.AssemblyInfo.cs
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.csproj.CoreCompileInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\refint\questao7.dll
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.pdb
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\questao7.genruntimeconfig.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosEmWhile\questao7\obj\Debug\net6.0\ref\questao7.dll

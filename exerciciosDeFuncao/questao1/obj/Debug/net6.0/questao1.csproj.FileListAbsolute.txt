@@ -1,0 +1,4 @@
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\questao1\obj\Debug\net6.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\questao1\obj\Debug\net6.0\questao1.AssemblyInfoInputs.cache
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\questao1\obj\Debug\net6.0\questao1.AssemblyInfo.cs
+C:\Users\aline\source\repos\ExerciciosEmC\exerciciosDeFuncao\questao1\obj\Debug\net6.0\questao1.csproj.CoreCompileInputs.cache
